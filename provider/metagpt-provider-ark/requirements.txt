@@ -1,0 +1,3 @@
+volcengine-python-sdk[ark]>=1.1.1
+metagpt-core>=1.0.0
+metagpt-provider-openai>=1.0.0
